@@ -1,0 +1,69 @@
+#menu{
+    background-color: #afd5d8;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    float: inline-start;
+    position: fixed;
+    height: auto;
+     }
+
+.icon{
+    size: 15px;
+}
+ul{
+    float: left-right;
+}
+
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    color: #000;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+}
+#name{
+    font-family: 'Petit formal Script',cursive;
+}
+h8{
+    font-size: 48px;
+    }
+#Home{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+#about{
+    background-color: #afd5d8; 
+    }
+.kqn{
+    border-radius: 99cm;
+    height: 32px;
+    width: 32px;
+}
+
+#map{
+    padding-left: auto;
+}
+li{
+    list-style-type: none; }
+.pd{
+ height: 132px;
+ width: 132px;
+} 
+#whts{
+    height: 32px;
+    width: 32px;
+    margin-left:98.27%;
+    position: floating;
+}
+.shop{
+    width: 33.33%; 
+    position: absolute;
+}
